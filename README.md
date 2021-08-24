@@ -10,5 +10,5 @@ I'm Manu, a 24 years old full stack developer from Argentina. I started coding w
 - 💽 MySQL, SQL, MongoDB
 
 ## Contact
-- [Manuel Lozano](linkedin.com/in/manuel-lozano-4440a81b3/) on LinkedIn
+- [Manuel Lozano](https://www.linkedin.com/in/manuel-lozano-4440a81b3/) on LinkedIn
 - [Manu#4979](./) on Discord
